@@ -1,0 +1,19 @@
+{
+  "name": "tinymce-build",
+  "version": "3.5.8",
+  "homepage": "https://github.com/PerfectlyNormal/tinymce-build",
+  "authors": [
+    "Per Christian B. Viken <perchr@northblue.org>"
+  ],
+  "description": "TinyMCE",
+  "main": "tiny_mce_jquery.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tinymce",
+    "texteditor"
+  ],
+  "license": "MIT",
+  "private": true
+}
